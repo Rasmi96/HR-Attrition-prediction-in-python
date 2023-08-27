@@ -19,7 +19,7 @@ Train the selected model on the training data. The model learns patterns and rel
 6.**Model Evaluation:**
 Use the testing dataset to evaluate the model's performance. Common evaluation metrics include accuracy, precision, recall, F1-score, and area under the receiver operating characteristic curve (AUC-ROC).
 
-**Hyperparameter Tuning:**
+7.**Hyperparameter Tuning:**
 Adjusting the hyperparameters of the model to optimize its performance. This might involve techniques like grid search or random search.
 
 8.**Predicting Churn:**
