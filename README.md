@@ -1,5 +1,6 @@
 # HR-Attrition-prediction-in-python
 This Churn prediction model involves analyzing historical data and using machine learning techniques to build predictive models that can forecast which employees are at a higher risk of churning.Here's an overview of the steps involved in customer churn prediction:
+
 1.**Data Preprocessing:** 
 Clean and preprocess the collected data. This involves handling missing values, removing outliers, and transforming the data into a suitable format for analysis.
 
